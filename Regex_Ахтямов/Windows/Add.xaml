@@ -18,7 +18,7 @@
         <Label Content="#Место рождения:" HorizontalAlignment="Left" Margin="10,442,0,0" VerticalAlignment="Top"/>
         <TextBox x:Name="Name" Height="23" Margin="10,36,10,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
         <TextBox x:Name="FirstName" Height="23" Margin="10,90,10,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
-        <TextBox x:Name="Lastname" Height="23" Margin="10,144,10,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
+        <TextBox x:Name="LastName" Height="23" Margin="10,144,10,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
         <TextBox x:Name="Issued" Height="23" Margin="10,198,10,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
         <TextBox x:Name="DateOfIssued" Height="23" Margin="10,252,10,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
         <TextBox x:Name="DepartmentCode" Height="23" Margin="10,306,10,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>

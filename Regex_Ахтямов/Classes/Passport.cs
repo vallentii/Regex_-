@@ -12,7 +12,7 @@ namespace Regex_Ахтямов.Classes
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string Issued {  get; set; }
-        public string DateofIssued { get; set; }
+        public string DateOfIssued { get; set; }
         public string DepartmentCode { get; set; }
         public string SeriesAndNumber { get; set; }
         public string DateOfBirth { get; set; }
